@@ -1,0 +1,16 @@
+npm install -g vue-cli   : instalar o vue cliente de forma global caso sua maquina não esteja com vue client
+npm vue create grafico  :criando projeto sobre graficos
+npm i vue-chartkick chart.js  :instalando dependencias para criar os graficos com chart.js e o chartkick graficos de maneira mais pratica
+
+npm install vue-chartkick@0.6.1 chart.js@2.9 --save : versão que funciona
+npm install --save chart.js   :repetir para atualizar a versão de instalação
+
+
+
+
+
+
+
+site para implementar: https://chartkick.com/vue
+
+npm run serve: rodar o projeto
