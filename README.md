@@ -1,6 +1,8 @@
 # graficos-vuejs
 creating basic graphics in vuejs using chartkick and chart.js
 
+Geo chart - Google Charts
+
 ![grafic](https://i.pinimg.com/originals/b7/96/49/b7964931fadd5802582f3f56cbfed7f0.jpg)
 
 
